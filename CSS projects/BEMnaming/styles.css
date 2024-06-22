@@ -1,0 +1,43 @@
+/* Base styling for all paragraphs */
+.paragraphs__paragraph {
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Specific styling for each paragraph */
+.paragraphs__paragraph--one {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+.paragraphs__paragraph--two {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.paragraphs__paragraph--three {
+    background-color: #cce5ff;
+    color: #004085;
+}
+
+.paragraphs__paragraph--four {
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.paragraphs__paragraph--five {
+    background-color: #d1ecf1;
+    color: #0c5460;
+}
+
+.paragraphs__paragraph--six {
+    background-color: #e2e3e5;
+    color: #383d41;
+}
+
+.paragraphs__paragraph--seven {
+    background-color: #fefefe;
+    color: #818182;
+}
